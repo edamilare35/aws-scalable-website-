@@ -1,0 +1,12 @@
+# Ignore node_modules
+node_modules
+
+# Ignore logs
+logs
+*.log
+
+# Ignore AWS credentials
+.aws
+
+# Ignore SSH keys
+*.pem
