@@ -1,5 +1,5 @@
 # AWS Scalable website/
- This repository documents the setup of a scalable virtual  sserver and landing page for a commercial client using AWS EC2.
+ This repository documents the setup of a scalable virtual  server and landing page for a commercial client using AWS EC2.
 
 ## Table of Contents
 
